@@ -5,10 +5,10 @@ For this homework, all earthquakes data from the past 7 Days were pulled from [U
 * Remember to pass in your unique Mapbox token.
 ### USGS Earthquake Data Visualization Level 1
 ![Level1](Images/level1.png)
-### USGS Earthquake Data Visualization Level 1
+### USGS Earthquake Data Visualization Level 2
 ![Level1](Images/level2.png)
-Main languages and libraries used in this homework:
 
+Main languages and libraries used in this homework:
 * Javascript
 * Leaflet
 * D3
